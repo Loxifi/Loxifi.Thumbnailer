@@ -1,11 +1,12 @@
-﻿using Loxifi.Structures;
+﻿using Loxifi.Interfaces;
+using Loxifi.Structures;
 using Loxifi.Utils;
 using Microsoft.Diagnostics.Runtime.Utilities;
 using System.Drawing;
 using System.Runtime.InteropServices;
 using System.Text;
 
-namespace Loxifi.Interfaces
+namespace Loxifi
 {
 	/// <summary>Extracts thumbnail images using the IExtractImage interface. Windows XP.</summary>
 	/// <remarks><para>

@@ -1,4 +1,5 @@
-﻿using Microsoft.Diagnostics.Runtime.Utilities;
+﻿using Loxifi.Structures;
+using Microsoft.Diagnostics.Runtime.Utilities;
 using System.Runtime.InteropServices;
 using System.Text;
 

@@ -20,13 +20,12 @@ namespace Loxifi.Utils
 
 			result.MakeTransparent();
 
-
 			// Some special handling for certain thumbnail types.
 			try
 			{
 				if (Directory.Exists(filename))
 				{
-					
+
 					//Flood fill code removed from here
 					result.MakeTransparent(Color.Transparent);
 				}

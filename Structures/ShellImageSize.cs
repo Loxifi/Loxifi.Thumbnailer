@@ -1,4 +1,4 @@
-﻿namespace Loxifi
+﻿namespace Loxifi.Structures
 {
 	internal enum ShellImageSize
 	{

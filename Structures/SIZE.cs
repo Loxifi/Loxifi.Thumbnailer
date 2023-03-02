@@ -1,6 +1,6 @@
 ﻿using System.Runtime.InteropServices;
 
-namespace Loxifi.Interfaces
+namespace Loxifi.Structures
 {
 
 	[StructLayout(LayoutKind.Sequential)]
